@@ -2,7 +2,7 @@
 
 ### 你好，世界 👋
 
-- :hammer: iOS 开发者
+- :hammer:  iOS 开发者
 
 <!--
 **shushengwang/shushengwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
